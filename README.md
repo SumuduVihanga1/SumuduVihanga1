@@ -10,11 +10,24 @@
 
 ###
 
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+<div align="center">
+
+  <a href="https://facebook.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="25" alt="facebook logo" />
+  </a>
+
+  <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="instagram logo" />
+  </a>
+
+  <a href="https://wa.me/YOUR_PHONE_NUMBER" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="25" alt="whatsapp logo" />
+  </a>
+
+  <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+
 </div>
 
 ###
@@ -41,7 +54,7 @@
 
 ###
 
-<p data-importer="text" align="left">- 🎓 HNDIT Undergraduate<br>- 🤝 Open to internships, collaborations, and new learning opportunities<br>- 🌱 Currently improving my skills in React, Node.js, Express.js, and MongoDB <br>- 📫 Email: sumuduvihanga1@gmail.com<br>- 🌍 Location: Sri Lanka, Matale</p>
+<p data-importer="text" align="left">- 🎓 HNDIT Undergraduate<br>- 🤝 Open to internships, collaborations, and new learning opportunities<br>- 🌱 Currently improving my skills in React, Node.js, Express.js, and MongoDB <br>- 📫 Email: sumuduvihanga1@gmail.com<br>- 🌍 Location: Matale, Sri Lanka</p>
 
 ###
 
