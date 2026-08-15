@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="25" alt="whatsapp logo" />
   </a>
 
-  <a href="https://linkedin.com/in/sumudu_vihanga1" target="_blank">
+  <a href="https://www.linkedin.com/in/sumudu-vihanga-72979a31a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
 
